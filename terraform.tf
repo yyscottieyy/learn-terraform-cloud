@@ -1,5 +1,5 @@
 terraform {
-
+/* 
   cloud {
     organization = "Data-Engineering-and-Data-Analytics"
 
@@ -7,7 +7,7 @@ terraform {
       name = "learn-terraform-cloud"
     }
   }
-
+ */
   required_providers {
     aws = {
       source  = "hashicorp/aws"
